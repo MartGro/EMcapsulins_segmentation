@@ -14,9 +14,10 @@ We include some example input and output files for replication.
 
 ## Installation
 0) optional, but recommended:
+
     create fresh cona environment
-    conda create -n emcaps_env python=3.10
-    conda activate emcaps_env
+    ```conda create -n emcaps_env python=3.10```
+    ```conda activate emcaps_env```
 
 
 1) Clone this repository:
