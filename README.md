@@ -13,9 +13,8 @@ The models are trained on 8-bit images with a pixel size: of 0.5525 per nanomete
 We include some example input and output files for replication.
 
 ## Installation
-0) optional, but recommended:
-
-    create fresh cona environment
+0) optional, but recommended: create fresh conda environment
+1) 
     ```conda create -n emcaps_env python=3.10```
     ```conda activate emcaps_env```
 
